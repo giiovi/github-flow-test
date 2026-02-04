@@ -6,3 +6,4 @@ Naming rule of branches:
 
 feature/what-you-are-doing
 
+Im using the extension gitflow now
